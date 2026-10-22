@@ -46,4 +46,4 @@ A web application focused on hiding and extracting information within multimedia
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/navvendiranm2027-png
-- LinkedIn: [Add your LinkedIn profile URL here]
+- LinkedIn: [www.linkedin.com/in/navvendiran-m-54b889424]
