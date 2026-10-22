@@ -57,3 +57,11 @@ A web application focused on hiding and extracting information within multimedia
 
 - GitHub: https://github.com/navvendiranm2027-png
 - LinkedIn: [www.linkedin.com/in/navvendiran-m-54b889424]
+
+- 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navvendiranm2027-png&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navvendiranm2027-png&layout=compact&theme=tokyonight)
+
